@@ -13,7 +13,7 @@ title                    : "Daniele Gerosa"
 title_separator          : "-"
 name                     : &name "Daniele Gerosa"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://dgerosa.github.io 
+url                      : https://dagerosa.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
