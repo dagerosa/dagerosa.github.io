@@ -22,9 +22,9 @@ author_profile: true
 - Carl Olsson, Daniele Gerosa, and Marcus Carlsson, *Relaxations for non-separable cardinality/rank penalties*, 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 162-171, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9607452)
 
 ## Pre-prints
-- Daniele Gerosa, Thomas Eriksson, *Stability Analysis for Autoregressive Sampling Sets*, 2026. [arXiv](https://arxiv.org/pdf/2606.03942)
+- Daniele Gerosa, Thomas Eriksson, *Stability Analysis for Autoregressive Sampling Sets*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2606.03942)
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Thomas Eriksson, *Statistical Analysis of the Extensive Cancellation Algorithm for Passive Radar Using an Imperfect
-Reference Signal*, 2026. [arXiv](https://arxiv.org/pdf/2601.20817).
+Reference Signal*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2601.20817).
 
 ## Reviewer activity
 I served as a reviewer for Signal Processing (Elsevier) and EUSIPCO.
