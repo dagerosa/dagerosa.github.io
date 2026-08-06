@@ -27,6 +27,6 @@ author_profile: true
 Reference Signal*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2601.20817).
 
 ## Reviewer activity
-I served as a reviewer for Signal Processing (Elsevier) and EUSIPCO.
+I served as a reviewer for IEEE Transactions on Signal Processing, IEEE Access, Signal Processing (Elsevier) and EUSIPCO.
 
 
