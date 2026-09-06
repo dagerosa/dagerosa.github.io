@@ -26,7 +26,10 @@ author_profile: true
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Thomas Eriksson, *Statistical Analysis of the Extensive Cancellation Algorithm for Passive Radar Using an Imperfect
 Reference Signal*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2601.20817).
 
+## In preparation
+- Alireza Pourafzal, Daniele Gerosa, Mats Viberg, and Henk Wymeersch, paper in preparation (keywords: Fourier sensing, coherence-accuracy tradeoffs)
+
 ## Reviewer activity
-I served as a reviewer for IEEE Transactions on Signal Processing, IEEE Access, Signal Processing (Elsevier) and EUSIPCO.
+I served as a reviewer for IEEE Transactions on Signal Processing, IEEE Access, Signal Processing (Elsevier) and EUSIPCO 2026. 
 
 
