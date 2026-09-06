@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Writings"
 permalink: /publications/
 author_profile: true
 ---
@@ -20,6 +20,10 @@ author_profile: true
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Thomas Eriksson, *Statistical Analysis Of Target Parameter Estimation Using Passive Radar*, 2025 IEEE 10th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), pp. 26-30, 2025. [IEEE Xplore](https://ieeexplore.ieee.org/document/11423989)
 - Daniele Gerosa, Lauri Anttila, and Thomas Eriksson, *Compensation of correlated autoregressive clock jitter in arrays of Analog-to-Digital Converters*, 2025 59th Asilomar Conference on Signals, Systems, and Computers, pp. 209-214, 2025. [IEEE Xplore](https://ieeexplore.ieee.org/document/11443700) 
 - Carl Olsson, Daniele Gerosa, and Marcus Carlsson, *Relaxations for non-separable cardinality/rank penalties*, 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 162-171, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9607452)
+
+## Theses
+- [*Trace theorem for the Martinet distribution*](https://www.math.unipd.it/~monti/tesi/Gerosa2.pdf). Master thesis, subsequently published in Communications in Contemporary Mathematics (see above).
+- [*Metrica di Gromov-Hausdorff ed esistenza di geodetiche*](https://www.math.unipd.it/~monti/tesi/Daniele_Gerosa.pdf). Bachelor thesis (in Italian).
 
 ## Pre-prints
 - Daniele Gerosa, Thomas Eriksson, *Stability Analysis for Autoregressive Sampling Sets*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2606.03942)
