@@ -9,7 +9,7 @@ author_profile: true
 
 ## Theses
 - [*Non-Convex Methods for Compressed Sensing and Low Rank Matrix Problems*](https://portal.research.lu.se/files/115368391/Thesis_Daniele_Gerosa_kappa.pdf). PhD thesis (kappa).
-- [*Trace theorem for the Martinet distribution*](https://www.math.unipd.it/~monti/tesi/Gerosa2.pdf). Master thesis, subsequently published in Communications in Contemporary Mathematics (see above).
+- [*Trace theorem for the Martinet distribution*](https://www.math.unipd.it/~monti/tesi/Gerosa2.pdf). Master thesis.
 - [*Metrica di Gromov-Hausdorff ed esistenza di geodetiche*](https://www.math.unipd.it/~monti/tesi/Daniele_Gerosa.pdf). Bachelor thesis (in Italian).
 
 ## Journal papers
