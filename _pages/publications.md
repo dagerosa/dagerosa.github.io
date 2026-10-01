@@ -21,6 +21,7 @@ author_profile: true
 - [alph] Marcus Carlsson, and Daniele Gerosa, *On phase retrieval via matrix completion and the estimation of low rank PSD matrices*, Inverse Problems, vol. 36(1), pp. 015006, 2020. [e-print](https://iopscience.iop.org/article/10.1088/1361-6420/ab4e6d/meta)
 
 ## Conference papers
+- Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Patrik Dammert, *Efficient Delay and Doppler Estimation in Noise Radar*, 2026, submitted.
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, Patrik Dammert, and Thomas Eriksson, *Separable Delay And Doppler Estimation In Passive Radar*, ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 111-115, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11463498)
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Thomas Eriksson, *Statistical Analysis Of Target Parameter Estimation Using Passive Radar*, 2025 IEEE 10th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), pp. 26-30, 2025. [IEEE Xplore](https://ieeexplore.ieee.org/document/11423989)
 - Daniele Gerosa, Lauri Anttila, and Thomas Eriksson, *Compensation of correlated autoregressive clock jitter in arrays of Analog-to-Digital Converters*, 2025 59th Asilomar Conference on Signals, Systems, and Computers, pp. 209-214, 2025. [IEEE Xplore](https://ieeexplore.ieee.org/document/11443700) 
