@@ -13,6 +13,7 @@ author_profile: true
 - [*Metrica di Gromov-Hausdorff ed esistenza di geodetiche*](https://www.math.unipd.it/~monti/tesi/Daniele_Gerosa.pdf). Bachelor thesis (in Italian).
 
 ## Journal papers
+- Daniele Gerosa, and Thomas Eriksson, *Sampling with Autoregressive Clock Jitter: Infinite-Dimensional Stability Failure and Finite-Dimensional Conditioning*, to appear in Signal Processing, 2026. [arXiv](https://arxiv.org/abs/2606.03942)
 - Daniele Gerosa, Rui Hou, Vimar Björk, Ulf Gustavsson, and Thomas Eriksson, *Autoregressive stochastic clock jitter compensation in analog-to-digital converters*, to appear in IEEE Transactions on Signal Processing, 2026. [IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11489516)
 - Daniele Gerosa, Marcus Carlsson, and Carl Olsson, *Bias versus non-convexity in compressed sensing*, Journal of Mathematical Imaging and Vision, vol. 64(4), pp. 379-394, 2022. [e-print](https://link.springer.com/article/10.1007/s10851-022-01071-5)
 - [alph] Marcus Carlsson, Daniele Gerosa, Carl Olsson, *An unbiased approach to low rank recovery*, SIAM Journal on Optimization, vol. 32(4), pp. 2969-2996, 2022. [e-print](https://epubs.siam.org/doi/10.1137/19M1294800)
@@ -28,7 +29,6 @@ author_profile: true
 - Carl Olsson, Daniele Gerosa, and Marcus Carlsson, *Relaxations for non-separable cardinality/rank penalties*, 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 162-171, 2021. [IEEE Xplore](https://ieeexplore.ieee.org/document/9607452)
 
 ## Pre-prints
-- Daniele Gerosa, Thomas Eriksson, *Stability Analysis for Autoregressive Sampling Sets*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2606.03942)
 - Mats Viberg, Daniele Gerosa, Tomas McKelvey, and Thomas Eriksson, *Statistical Analysis of the Extensive Cancellation Algorithm for Passive Radar Using an Imperfect
 Reference Signal*, 2026, submitted. [arXiv](https://arxiv.org/pdf/2601.20817).
 
